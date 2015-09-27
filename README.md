@@ -1,0 +1,2 @@
+# go-check
+Check equality
